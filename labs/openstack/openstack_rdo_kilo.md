@@ -237,7 +237,7 @@ List security group list
 neutron security-group-list
 ```
 
-Normally, you have two security group list with the name "default"
+Normally you'll see juste one security group, in the case you have two security group list with the name "default"
 Delete the first.
 ```
 neutron security-group-delete 80ee9d7f-0e2f-4771-9b4d-22c6b65f41e9
